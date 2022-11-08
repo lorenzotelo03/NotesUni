@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "dd8004334dc07408",
+    "type": "split",
+    "children": [
+      {
+        "id": "33784f8b6176f52e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d111c5fba43cc2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia e Istologia/Appunti/Struttura della Cellula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3098079a0741f3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65e0ee8cf3a1c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "043e9b6b3b67d05f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbe84251a4f73269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79e1949ea3553468",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8ed1f7a15a7b8fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Zoologia/Lezioni/3 Termoregolazione respirazione e circolazione SN 2022.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "ede2e7768f5d2665",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee07c69dc0619bea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc551028b5e1639",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biologia e Istologia/Appunti/Struttura della Cellula.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "035d1f69564028c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biologia e Istologia/Appunti/Struttura della Cellula.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39981c204a3f9036",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc4aecc2929186e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Biologia e Istologia/Appunti/Struttura della Cellula.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d111c5fba43cc2a1",
+  "lastOpenFiles": [
+    "Zoologia/Appunti/Tegumento, scheletro e locomozione.md",
+    "Zoologia/Appunti/Appunti 1...md",
+    "Biologia e Istologia/Appunti/Macromolecole.md",
+    "Biologia e Istologia/Appunti/Acidi Nucleici.md",
+    "Biologia e Istologia/Appunti/Struttura della Cellula.md",
+    "Biologia e Istologia/Appunti/Proteine.md",
+    "Zoologia/Appunti/Sistema Endocrino.md",
+    "Zoologia/Lezioni/7 Sistema Endocrino SN 2021.pdf",
+    "Zoologia/Lezioni/5 Tegumento scheletro e locomozione SN 2022.pdf",
+    "Zoologia/Lezioni/4 Escrezione e Osmoregolazione SN 2022.pdf"
+  ]
+}

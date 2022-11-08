@@ -1,0 +1,43 @@
+Biologia ed Istologia
+
+Macromolecole
+1 ) Polisaccaridi
+
+1.1)Glucidi
+I carboidrati sono sintetizzati dai vegetali utilizzando la CO2, fonte primaria per mantenere energia a rapida utilizzazione nell'uomo
+55-65% delle calorie totali introdotte nel nostro organismo, il nostro organismo trasforma i carboidrati tramite processi digfestivi e metabolici sono convertiti in glucosio,stessa cosa per alcuni amminoacidi
+i carboidrati si suddividono in:
+ [1] monosaccaridi (zuccheri semplici): monomeri dai quali sono sintetizzati i carboidrati più grandi
+ [2] disaccaridi: 2 monosaccaridi uniti da legame covalente
+ [3] oligosaccaridi: costituiti da pochi(3-20) monosaccaridi
+ [4] polisaccaridi: grandi polimeri compostu da centinaia o migliaia di monosaccaridi
+
+1.1.1)Monosaccaridi
+i monosaccaridi sono molecole contenuti in più gruppi -OH ed è un gruppo aldeico o chetoico.
+si classificano in Triosi,Tetraosi,Pentosi ecc..
+a seconda del numero di atomi di carbonio che costituisce la molecola
+(CH2O)n fromula bruta, il primo carbonio è localizzato quando è il più vicino al gruppo più importante, in soluzioni acquose (citosol) assume la conformazione ciclica dettata da una reazione di condensazione intramolecolare tra il gruppo aldeico e quello alcolico, in soluzione tramite la rotazione e movimento delle molecole si avranno diversi Stereoisomeri(alfa e beta)
+per i glucidi alfa ha il gruppo OH al di sopra del piano mentre beta lo ha sotto
+
+molti monosaccaridi hanno la stessa formula, ma differiscono nella distribuzione spaziale degli atomi dando origine a Isomeri, che possono essere isomeri strutturali  quando gli stesssi gruppi chimici sono legati a diversi atomi di C, gli Stereoisomeri quando in un legame vi è una differenza strutturale sullo stesso atomo di C
+stereo centro=punto in cui si possono generare due strutture differenti che sono speculari
+NH2 =  gruppo amminico
+
+1.1.2)Disaccaridi
+.....
+1.1.3)Oligosaccaridi
+Formati dalla polimerizzazione di più monosaccaridi (da 3 a 20 monosaccaridi) uniti da diversi legami glicosidici, alcuni possiedono altri gruppi funzionali cge conferuscobo delle propietà speciali. gli oligo sono spesso legati covalentemente da proteine (formando glicoproteine) o a lipidi(glicolipidi) sulla superficie cellulare esterna, dove funzinano da legami di riconoscimento
+- Omo-Oligosaccaridi
+-Etero-Oligosaccaridi
+
+1.1.4)Polisaccaridi
+[1]Glicogeno, è un polimero del glucosio non lineare che può essere utilizzato rapidamente nel caso di carente apporto alimentare(nell'uomo depositato nel fegato e nei muscoli scheletrici)
+
+[2]Amido, presente neu vegetali, sempre polimero del glucosio ed è un omopolimero costituito da subunità alfa-glucosio unite da legami di alfa-1,4 glicossicidi, l'amido ga de forme principali
+- Amiloso
+-Amilopectina
+Le cellule vegetalu lo accumuano negli aminoplasti
+
+[3] Cellulosa: funzione strutturale che serve per costituire la parete cellulare, è un omopolimero non ramificato, ogni molecola di beta-glucosui è ruotata di 180° rispetto alla precedente, la cellulosa viene impiegata per costruire delle fibre , CELLULASI sono batteri simbionti che permettono la rottura dei legami delle catene di cellulosa 
+
+[4] Chitina costituisce l'esoscheletro degli artropodi,strutturalmente simile alla cellulosa ma il monomero di base è N-acetilglucosammina(NAG,derivato del glucosio),noi esseri umani non possiamo digerire la chitina
